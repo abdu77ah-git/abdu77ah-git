@@ -45,8 +45,6 @@ Building Cross-Platform Apps That Blend Clean Design With Smooth Performance �
 ---
 
 ## ⚡ Fun Fact
-> “I don’t just code apps — I craft experiences that feel native everywhere.” ✨  
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House.” ✨  
 
 ---
-
-⭐ *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
