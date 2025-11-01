@@ -1,6 +1,6 @@
 # 👋 Hi, I’m ABDULLAH (@abdu77ah-git)
 
-### 💙 Flutter Developer | UI/UX Enthusiast | Mobile App Creator  
+### 💙 Mobile App Creator | Flutter Developer | UI/UX Enthusiast 
 Building Cross-Platform Apps That Blend Clean Design With Smooth Performance 🚀  
 
 ---
