@@ -8,15 +8,13 @@ Building Cross-Platform Apps That Blend Clean Design With Smooth Performance �
 ## 🧩 About Me
 - 🎓 **BSCS** student at **COMSATS University Islamabad, Sahiwal Campus**.  
 - 📱 Passionate about **Flutter development** and creating seamless mobile experiences  
-- 🌱 Currently learning **Firebase**, **API integration**, and **state management (Provider, Riverpod, Bloc, etc.)**  
-- 🧠 Interested in **app architecture**, **backend integration**, and **scalable design systems**  
-- ⚙️ Exploring advanced **App Deployment**, and **Open Source Collaboration**
+- 🌱 Currently learning **Firebase**, **API integration**, and **state management (Provider)**  
+- 🧠 Interested in **app architecture**, **backend integration**, and **scalable design systems**
 
 ---
 
 ## 🎯 My Current Goals
-- 📱 Build and publish my **first production-ready Flutter app**  
-- 🤝 Collaborate on **open-source Flutter projects**  
+- 📱 Build and publish my **first production-ready Flutter app** 
 - ☁️ Learn **backend integration with Firebase & Node.js**  
 - 🧩 Contribute to **UI/UX best practices in mobile design**
 
